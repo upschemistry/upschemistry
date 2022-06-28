@@ -13,12 +13,6 @@ __this text should also be bold__
 
 *this text **should** be both*
 
-##making a list##
-*1
-*2
-    *3
-*4
-
 this is a quote
 >hello
 
